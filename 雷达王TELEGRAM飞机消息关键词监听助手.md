@@ -116,3 +116,4 @@
 ---
 
 > ⚠️ **免责声明**：本工具仅供学习和研究使用，请遵守 Telegram 服务条款及当地法律法规。
+> google-site-verification: google3f87f39ce7b3e4b6.html
